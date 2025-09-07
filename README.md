@@ -1,6 +1,6 @@
-# Automação de Testes com Cypress
+# Automação de Testes com Playwright
 
-Este projeto contém testes automatizados usando Cypress com duas abordagens diferentes (Page Object Model e Direta) para realizar buscas no Yahoo, e fazer uma verificação no site da UOL.
+Este projeto contém testes automatizados usando Playwright para realizar buscas no Yahoo, e fazer uma verificação no site da UOL.
 
 ## 🔧 Pré-requisitos
 
